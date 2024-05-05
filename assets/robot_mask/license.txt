@@ -1,0 +1,11 @@
+Model Information:
+* title:	robot mask
+* source:	https://sketchfab.com/3d-models/robot-mask-8a62569ecc0e4e04870256211b04a073
+* author:	vicente betoret ferrero (https://sketchfab.com/deathcow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "robot mask" (https://sketchfab.com/3d-models/robot-mask-8a62569ecc0e4e04870256211b04a073) by vicente betoret ferrero (https://sketchfab.com/deathcow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Penguin skull
+* source:	https://sketchfab.com/3d-models/penguin-skull-0f4893dbf99e4b3b865a0ec186c61d7a
+* author:	University of Dundee Museum Collections (https://sketchfab.com/uod_museums)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
